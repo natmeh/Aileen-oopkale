@@ -1,0 +1,132 @@
+p{  
+    font-family: 'McLaren', cursive;
+    font-size: 25px;  
+    text-align: center;
+ }
+ 
+html{
+    background-color:#77dd77;
+    
+
+    }
+.main{
+    justify-content:center;
+    display:flex;
+    height: 400px;
+    width:100%;    
+    
+    }
+    
+.fixed{
+    display:flex;
+    justify-content:center;
+    background:#129412;
+    font-family: 'Fira Sans', sans-serif;
+    position:fixed;
+    width: 100%;    
+
+}
+
+.header{
+    border:10px;
+    border-color:#FBCABB;
+    display:flex;
+    justify-content:center;
+    background:#77dd77;
+    font-family: 'Calistoga', cursive;
+    text-align: center;
+    padding:90px;
+}
+
+.pic1{
+    height: 270px;
+    width:270px;
+    display: block;
+    margin-right: 10px;
+    display: block;
+    margin: 0 auto;
+     
+    }
+    
+.pic2{
+    height: 200px;
+    width:310px;
+    display: block;
+    margin-right: 10px;
+    display: block;
+    margin: 0 auto;
+}
+.pic3{
+    height: 90px;
+    width:175px;
+    display: block;
+    margin-right: 10px;
+    display: block;
+    margin: 0 auto;
+}
+.pic4{
+    height: 70px;
+    width:170px;
+    display: block;
+    margin-right: 10px;
+    display: block;
+    margin: 0 auto;
+    
+}
+.pic5{ height: 210px;
+    width:170px;
+    display: block;
+    margin-right: 10px;
+    display: block;
+    margin: 0 auto;}
+
+ 
+.num1{
+    
+
+    padding-top: 20px;
+    background:#77dd77;
+    float:left;
+    width:50%;
+}
+
+.num2{
+    float:right;
+    padding-top: 15px;
+    background:#77dd77;
+    width:50%;
+    
+}
+
+.num3{
+    width: 50%;
+    padding-top: 10px;
+    background:#77dd77;
+    float:left;
+    clear:both;
+    overflow-x: hidden;
+
+
+    }
+    
+.num4{
+    width: 50%; 
+    padding-top: 10px;
+    background:#77dd77;
+    float:left;
+    overflow-x: hidden;
+
+    
+    }
+.line1{
+    display: flex;
+    
+    }
+    
+.line2{
+    display: flex;
+
+}
+.button:hover {
+  background-color: pink;
+}
